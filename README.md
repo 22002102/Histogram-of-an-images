@@ -28,7 +28,7 @@ The Histogram of gray scale image and color image is shown.
 # Register Number: 212222230132
 
 
-pip install opencv-python
+!pip install opencv-python
 
 import cv2
 import matplotlib.pyplot as plt
